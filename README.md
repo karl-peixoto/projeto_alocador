@@ -1,6 +1,8 @@
-# SAD - Sistema de Apoio à Decisão para Alocação de Docentes
+# Sistema de Apoio à Decisão para Alocação de Docentes
 
-Um sistema que aplica Inteligência Artificial (Algoritmos Genéticos e Colônia de Formigas) e Métodos Exatos (Programação Linear Inteira - PLI) para otimizar a alocação de docentes em disciplinas, respeitando preferências dos professores e restrições de horários. Interface web simples em Flask para execução e análise dos resultados.
+Esse projeto é um trabalho de conclusão de curso para graduação em Estatística Bacharelado pela Universidade de Brasília. O relatório final está disponível em tcc_karl_peixoto.pdf.
+
+O projeto é um sistema que aplica Meta-Heurísticas (Algoritmos Genéticos e Colônia de Formigas) e Métodos Exatos (Programação Linear Inteira - PLI) para otimizar a alocação de docentes em disciplinas, respeitando preferências dos professores e restrições de horários. Interface web simples em Flask para execução e análise dos resultados.
 
 ---
 
@@ -126,7 +128,7 @@ flask run
 ## Autor e Contato
 
 - Nome: Karl Peixoto
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/karl-peixoto-71787537/
 - E-mail: karlpmm@gmail.com
 
 ---
