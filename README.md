@@ -114,17 +114,6 @@ flask run
 
 ---
 
-## Tecnologias Utilizadas
-
-- 🐍 **Python**
-- 🌐 **Flask** (interface web)
-- 🧮 **Pandas** e **NumPy** (manipulação e vetorização de dados)
-- 🧠 **Algoritmo Genético (AG)** e **Colônia de Formigas (ACO)**
-- 📐 **Programação Linear Inteira (PLI)** via **PuLP**
-- 📊 **xlsxwriter** / **openpyxl** (exportação/importação Excel)
-
----
-
 ## Autor e Contato
 
 - Nome: Karl Peixoto
